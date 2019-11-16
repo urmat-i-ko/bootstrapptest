@@ -1,0 +1,3 @@
+#To enforce or deny complete folder listing
+ErrorDocument 404 404/404.html
+IndexIgnore *
